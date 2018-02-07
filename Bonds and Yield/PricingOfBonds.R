@@ -1,7 +1,6 @@
 ################  Pricing of bonds   #########################
 
 #         Loading the Rates Data        #
-setwd("F:/Semester 8/Financial Analytics Lab/ZCYC_NSS_10012018")
 rates = read.csv('ZCYC_Rates.csv', header = TRUE)
 colnames(rates) = c('maturity', 'rate')
 
