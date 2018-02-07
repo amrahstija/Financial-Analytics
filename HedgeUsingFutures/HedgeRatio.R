@@ -5,7 +5,6 @@ library(forecast)
 library(vars)
 library(urca)
 
-setwd("C:/Users/User/Desktop")
 price = read.csv('VECM.csv')
 
 price$Date = as.Date(price$Date, format= "%d-%b-%y")
