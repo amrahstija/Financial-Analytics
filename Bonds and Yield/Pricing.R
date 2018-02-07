@@ -1,9 +1,4 @@
-# Feedback from the last assgn 1
-# Give Manegerial Insights
-# Return on VIX does not make any sense, only
-# change in VIX should have been incorporated
-
-#********** Pricing of bonds ***********#
+################  Pricing of bonds   #########################
 
 #         Loading the Rates Data        #
 setwd("F:/Semester 8/Financial Analytics Lab/ZCYC_NSS_10012018")
